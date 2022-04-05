@@ -42,6 +42,8 @@
       "last 1 safari version"
     ]
   },
+  "author": "Jorge Reyes",
+  "license": "MIT",
   "devDependencies": {
     "bcryptjs": "^2.4.3",
     "config": "^3.3.7",
